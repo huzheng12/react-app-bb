@@ -1,0 +1,13 @@
+@import './animate.css';
+@import './common.scss';
+
+
+//去除默认样式
+input, button, select, textarea {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  outline: none;
+  -webkit-appearance: none;
+  border-radius: 0;
+  }
